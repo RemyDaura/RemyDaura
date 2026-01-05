@@ -1,7 +1,7 @@
 # Salut, je suis Rémy ! 👋
 
 ### Étudiant Data Analyst OpenClassrooms
-**Actuellement à la recherche d'un stage de 2 à 6 mois (Démarrage : Dès maintenant)**
+**Actuellement à la recherche d'un stage de 2 semaines à 2 mois (Démarrage : Dès maintenant)**
 
 Passionné par les chiffres qui parlent, je transforme la donnée brute en décisions stratégiques. 
 Mon parcours chez OpenClassrooms m'a permis de maîtriser la chaîne de valeur de la donnée, de l'extraction à la visualisation.
