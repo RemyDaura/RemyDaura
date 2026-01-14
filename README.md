@@ -34,7 +34,10 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
 * **[Architecture BDD Immobilière] https://github.com/RemyDaura/DA-Projet5-Immobilier-SQL**
     * *Conception et implémentation d'une base de données complète pour une agence immobilière.*
     * `SQL` `Modélisation` `SGBD`
-
+      
+* **[🍷 Optimisation & Nettoyage de Données (BottleNeck)](https://github.com/RemyDaura/DA-Projet6-Optimisation-Gestion-Donnees-Python)**
+    * *Réconciliation de bases de données (ERP/Web) et détection d'anomalies statistiques.*
+    * `Python` `Pandas` `Outliers`
 ---
 
 ### Me contacter
