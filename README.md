@@ -24,13 +24,6 @@ Voici les outils que j'utilise au quotidien pour résoudre des problèmes busine
 ### Mes Projets Phares
 J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant ma formation :
 
-* **[Analyse de ventes E-commerce](https://github.com/RemyDaura/DA-Projet2-Analyse-Ventes-Excel)**
-    * *Nettoyage de données et création de tableaux de bord dynamiques pour piloter la performance commerciale.*
-    * `Excel` `KPIs` `Business Analysis`
-
-* **[Étude de Santé Publique](https://github.com/RemyDaura/DA-Projet4-Etude-Sante-Python)**
-    * *Exploration de données mondiales (FAO) pour détecter des tendances de malnutrition et proposer des solutions.*
-    * `Python` `Data Cleaning` `Pandas`
 
 * **[Architecture BDD Immobilière](https://github.com/RemyDaura/DA-Projet5-Immobilier-SQL)**
     * *Conception et implémentation d'une base de données complète pour une agence immobilière.*
@@ -39,6 +32,14 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
 * **[Optimisation & Nettoyage de Données (BottleNeck)](https://github.com/RemyDaura/DA-Projet6-Optimisation-Gestion-Donnees-Python)**
     * *Réconciliation de bases de données (ERP/Web) et détection d'anomalies statistiques.*
     * `Python` `Pandas` `Outliers`
+    * 
+* * **[Creation tableau dynamique Power BI](https://github.com/RemyDaura/DA-Projet7-Creation-Tableau-Dynamique-Power-BI)**
+    * *Piloter données de suivi, conception tableau de bord interactif Power BI.*
+    * `DAX` `PowerBI` `Tableau de bord`
+
+* **[Étude de Santé Publique](https://github.com/RemyDaura/DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT)**
+    * *Créer un modèle de données fiable, documenté et testé, servant de source unique de vérité pour les équipes de Business Intelligence.*
+    * `SnowFlake` `dbt` `SQL`
 ---
 
 ### Me contacter
