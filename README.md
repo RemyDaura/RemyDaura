@@ -25,9 +25,9 @@ Voici les outils que j'utilise au quotidien pour résoudre des problèmes busine
 J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant ma formation :
 
 
-* **[Architecture BDD Immobilière](https://github.com/RemyDaura/DA-Projet5-Immobilier-SQL)**
-    * *Conception et implémentation d'une base de données complète pour une agence immobilière.*
-    * `SQL` `Modélisation` `SGBD`
+* **[Analyse ventes livrairie avec Python](https://github.com/RemyDaura/DA-Projet9-Analyse-ventes-librairie-avec-Python)**
+    * *Nettoyer et fiabiliser les bases de données issues de la plateforme, analyse exploratoire des ventes et étude statistique approfondie*
+    * `Python` `Pandas` `Matplotlib, Seaborn`
       
 * **[Optimisation & Nettoyage de Données (BottleNeck)](https://github.com/RemyDaura/DA-Projet6-Optimisation-Gestion-Donnees-Python)**
     * *Réconciliation de bases de données (ERP/Web) et détection d'anomalies statistiques.*
@@ -37,7 +37,7 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
     * *Piloter données de suivi, conception tableau de bord interactif Power BI.*
     * `DAX` `PowerBI` `Tableau de bord`
 
-* **[Étude de Santé Publique](https://github.com/RemyDaura/DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT)**
+* **[Analyse évolution sociodémographique](https://github.com/RemyDaura/DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT)**
     * *Créer un modèle de données fiable, documenté et testé, servant de source unique de vérité pour les équipes de Business Intelligence.*
     * `SnowFlake` `dbt` `SQL`
 ---
