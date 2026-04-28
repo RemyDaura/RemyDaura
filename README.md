@@ -32,7 +32,7 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
 * **[Optimisation & Nettoyage de Données (BottleNeck)](https://github.com/RemyDaura/DA-Projet6-Optimisation-Gestion-Donnees-Python)**
     * *Réconciliation de bases de données (ERP/Web) et détection d'anomalies statistiques.*
     * `Python` `Pandas` `Outliers`
-    * 
+      
 * * **[Creation tableau dynamique Power BI](https://github.com/RemyDaura/DA-Projet7-Creation-Tableau-Dynamique-Power-BI)**
     * *Piloter données de suivi, conception tableau de bord interactif Power BI.*
     * `DAX` `PowerBI` `Tableau de bord`
