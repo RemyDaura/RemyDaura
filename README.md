@@ -24,7 +24,14 @@ Voici les outils que j'utilise au quotidien pour résoudre des problèmes busine
 ### Mes Projets Phares
 J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant ma formation :
 
+* **[Analyse évolution sociodémographique](https://github.com/RemyDaura/DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT)**
+    * *Créer un modèle de données fiable, documenté et testé, servant de source unique de vérité pour les équipes de Business Intelligence.*
+    * `SnowFlake` `dbt` `SQL`
 
+* **[Étude sur l'Accès à l'Eau Potable (ONG)](https://github.com/RemyDaura/DA-Projet10-Etude-Eau-Potable-PowerBI)**
+    * *Conception d'un tableau de bord décisionnel multi-pages pour guider les missions humanitaires d'une ONG.*
+    * `Power BI` `Power Query` `DAX` `Data Viz`
+    
 * **[Analyse ventes livrairie avec Python](https://github.com/RemyDaura/DA-Projet9-Analyse-ventes-librairie-avec-Python)**
     * *Nettoyer et fiabiliser les bases de données issues de la plateforme, analyse exploratoire des ventes et étude statistique approfondie*
     * `Python` `Pandas` `Matplotlib, Seaborn`
@@ -32,14 +39,8 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
 * **[Optimisation & Nettoyage de Données (BottleNeck)](https://github.com/RemyDaura/DA-Projet6-Optimisation-Gestion-Donnees-Python)**
     * *Réconciliation de bases de données (ERP/Web) et détection d'anomalies statistiques.*
     * `Python` `Pandas` `Outliers`
-      
-* * **[Creation tableau dynamique Power BI](https://github.com/RemyDaura/DA-Projet7-Creation-Tableau-Dynamique-Power-BI)**
-    * *Piloter données de suivi, conception tableau de bord interactif Power BI.*
-    * `DAX` `PowerBI` `Tableau de bord`
 
-* **[Analyse évolution sociodémographique](https://github.com/RemyDaura/DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT)**
-    * *Créer un modèle de données fiable, documenté et testé, servant de source unique de vérité pour les équipes de Business Intelligence.*
-    * `SnowFlake` `dbt` `SQL`
+
 ---
 
 ### Me contacter
