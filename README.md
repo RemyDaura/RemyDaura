@@ -28,7 +28,7 @@ J'aime apprendre en faisant. Voici quelques projets concrets réalisés durant m
     * *Créer un modèle de données fiable, documenté et testé, servant de source unique de vérité pour les équipes de Business Intelligence.*
     * `SnowFlake` `dbt` `SQL`
 
-* **[Étude sur l'Accès à l'Eau Potable (ONG)](https://github.com/RemyDaura/DA-Projet10-Etude-Eau-Potable-PowerBI)**
+* **[Étude sur l'Accès à l'Eau Potable (ONG)](https://github.com/RemyDaura/DA-Projet10-Etude-Eau-Potable)**
     * *Conception d'un tableau de bord décisionnel multi-pages pour guider les missions humanitaires d'une ONG.*
     * `Power BI` `Power Query` `DAX` `Data Viz`
     
